@@ -1,6 +1,6 @@
 {
   "name": "typing-animation-dialog",
-  "version": "1.0.1-beta1",
+  "version": "1.0.1-beta2",
   "description": "Typing animation with event triggers in vanillajs",
   "main": "index.js",
   "scripts": {
